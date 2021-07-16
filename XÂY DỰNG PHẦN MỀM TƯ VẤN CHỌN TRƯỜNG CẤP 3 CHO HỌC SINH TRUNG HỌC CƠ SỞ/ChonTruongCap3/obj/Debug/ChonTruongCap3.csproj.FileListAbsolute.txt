@@ -1,0 +1,87 @@
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe.config
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.pdb
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csprojAssemblyReference.cache
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.Properties.Resources.resources
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.GenerateResource.cache
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.CoreCompileInputs.cache
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.exe
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.pdb
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.Form1.resources
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.dll
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.pdb
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.xml
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\YenTD\source\repos\ChonTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.CopyComplete
+D:\Downloads\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe.config
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.exe
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.pdb
+D:\Downloads\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe
+D:\Downloads\ChonTruongCap3\bin\Debug\ChonTruongCap3.pdb
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.dll
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.pdb
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.xml
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Downloads\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.csprojResolveAssemblyReference.cache
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.Form1.resources
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.Properties.Resources.resources
+D:\Downloads\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.GenerateResource.Cache
+D:\Deskstop\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe.config
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.exe
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.pdb
+D:\Deskstop\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe
+D:\Deskstop\ChonTruongCap3\bin\Debug\ChonTruongCap3.pdb
+D:\Deskstop\ChonTruongCap3\bin\Debug\ExcelDataReader.pdb
+D:\Deskstop\ChonTruongCap3\bin\Debug\ExcelDataReader.xml
+D:\Deskstop\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Deskstop\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.csprojResolveAssemblyReference.cache
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.Form1.resources
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.Properties.Resources.resources
+D:\Deskstop\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe.config
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.exe
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.pdb
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ChonTruongCap3.pdb
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\mscorlib.dll
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.pdb
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.xml
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\System.Net.Http.xml
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\normidna.nlp
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\normnfc.nlp
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\normnfd.nlp
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\normnfkc.nlp
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\bin\Debug\normnfkd.nlp
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.Form1.resources
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DoAnKTDL_TuVanTruongCap3\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe.config
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.exe
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.pdb
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ChonTruongCap3.exe
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ChonTruongCap3.pdb
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\mscorlib.dll
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ExcelDataReader.pdb
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ExcelDataReader.xml
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\System.Net.Http.xml
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\normidna.nlp
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\normnfc.nlp
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\normnfd.nlp
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\normnfkc.nlp
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\bin\Debug\normnfkd.nlp
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.Form1.resources
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\tổng hợp đồ án  năm 3\Khai thác dữ liệu\XÂY DỰNG PHẦN MỀM TƯ VẤN CHỌN TRƯỜNG CẤP 3 CHO HỌC SINH TRUNG HỌC CƠ SỞ\ChonTruongCap3\obj\Debug\ChonTruongCap3.csproj.GenerateResource.Cache
